@@ -2,4 +2,4 @@
 
 [Mello App](https://www.google.com)
 
-(https://github.com/bflaskrud/mello-frontend/images/mello.png "Tello Clone-Mello")
+![](https://github.com/bflaskrud/mello-frontend/blob/master/Images/mello.png)
